@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.asliri.face.pay",
+            "sha256_cert_fingerprints": [
+                "45:FA:8B:13:61:0E:4A:B6:04:4C:A4:9C:8F:38:EC:71:E9:88:BF:9F:FF:47:10:77:8F:D0:AD:40:65:35:77:89"
+            ]
+        }
+    }
+]
